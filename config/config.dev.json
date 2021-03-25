@@ -1,0 +1,6 @@
+{
+  "folder_path": "/tmp/vanti",
+  "customer_ids": ["1424", "4323", "1194"],
+  "interval": 10000,
+  "alert_time": 10000
+}

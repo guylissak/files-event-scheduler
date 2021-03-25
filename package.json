@@ -1,0 +1,17 @@
+{
+  "name": "vanti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-redis": "^1.1.7",
+    "chokidar": "^3.5.1",
+    "nconf": "^0.11.2"
+  }
+}
